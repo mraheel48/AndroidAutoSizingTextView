@@ -1,0 +1,4 @@
+#Fri Mar 04 16:47:30 PKT 2022
+base.0=D\:\\other\\journaldev-master\\Android\\AndroidAutoSizingTextView\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
